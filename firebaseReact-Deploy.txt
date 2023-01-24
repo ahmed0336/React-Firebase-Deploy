@@ -1,0 +1,12 @@
+               FireBase Hosting in React js
+
+==>npm install firebase-tools -g
+==>firebase login
+==>firebase init
+==>Select Hosting: Configure and deploy Firebase Hosting sites.
+==>Select Use an existing project
+==>what do you want to use as your public directory==>build
+==>configure as a single-page app(rewrite all urls to /index.html)? yes
+fire build/index.html already exists,overwrite?(u=y/n) no
+==>github wala option==>no
+==>firebase deploy
